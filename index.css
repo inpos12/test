@@ -16,7 +16,7 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
-  background-image: url("/컬러/백그라운드.png");
+  background-image: url("./컬러/백그라운드.png");
   max-width: 100vw;
   height: 100vh;
   display: flex;
